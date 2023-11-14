@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "477EAT77S3.ru.yandex.mobile.dev",
+                "paths": [ "*" ]
+            },
+            {
+                "appID": "477EAT77S3.ru.yandex.mobile.search.develop",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
