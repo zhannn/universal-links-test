@@ -1,23 +1,11 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "477EAT77S3.ru.yandex.mobile.dev",
-                "paths": [ "*" ]
-            },
-            {
-                "appID": "477EAT77S3.ru.yandex.mobile.search.develop",
-                "paths": [ "*" ]
-            },
-            {
-                "appID": "PGB36VEQ8D.ru.yandex.mobile.dev",
-                "paths": [ "*" ]
-            },
-            {
-                "appID": "K55RMZ8ATD.ru.yandex.mobile.search.develop",
-                "paths": [ "*" ]
-            }
-        ]
-    }
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "PGB36VEQ8D.ru.yandex.mobile.dev",
+        "paths": ["*"]
+      }
+    ]
+  }
 }
