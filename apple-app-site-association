@@ -9,6 +9,14 @@
       {
         "appID": "K55RMZ8ATD.ru.yandex.mobile.search.develop",
         "paths": ["*"]
+      },
+      {
+        "appID": "PGB36VEQ8D.ru.yandex.mobile",
+        "paths": ["*"]
+      },
+      {
+        "appID": "PGB36VEQ8D.ru.yandex.mobile.search",
+        "paths": ["*"]
       }
     ]
   }
