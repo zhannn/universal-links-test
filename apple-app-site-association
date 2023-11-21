@@ -17,6 +17,10 @@
       {
         "appID": "PGB36VEQ8D.ru.yandex.mobile.search",
         "paths": ["*"]
+      },
+      {
+        "appID": "477EAT77S3.com.yandex.pay.merchant.sample",
+        "paths": ["/back/"]
       }
     ]
   }
