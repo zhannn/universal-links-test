@@ -3,9 +3,27 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Yandex Pay Universal Links Test</title>
 </head>
 <body>
     <h2>Yandex Pay Universal Links Test</h2>
+
+    <button id="ios_button">Open iOS</button>
+    <button id="android_button">Open Android</button>
+
+    <script>
+        function iOSButttonTapped() {
+            var url = 'https://zhannn.github.io/back?result=succeeded';
+            window.open(url, '_blank');
+        }
+
+        function androidButttonTapped() {
+            var url = 'https://example.com';
+            window.open(url, '_blank');
+        }
+
+        document.getElementById('ios_button').addEventListener('click', iOSButttonTapped);
+        document.getElementById('android_button').addEventListener('click', androidButttonTapped);
+    </script>
 </body>
 </html>
