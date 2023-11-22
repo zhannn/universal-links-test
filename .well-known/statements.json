@@ -4,7 +4,7 @@
       "delegate_permission/common.handle_all_urls"
     ],
     "target": {
-      "namespace": "android_app",
+      "namespace": "com.yandex.pay.sample",
       "package_name": "com.yandex.pay.sample",
       "sha256_cert_fingerprints": [
         "2A:9B:AD:D7:CA:A0:65:3E:C4:AB:6D:92:26:17:5B:56:3E:01:A1:F0:92:7D:5C:B1:68:E3:CE:E5:88:B1:17:30"
@@ -16,7 +16,7 @@
       "delegate_permission/common.handle_all_urls"
     ],
     "target": {
-      "namespace": "android_app2",
+      "namespace": "com.yandex.pay",
       "package_name": "com.yandex.pay",
       "sha256_cert_fingerprints": [
         "2A:9B:AD:D7:CA:A0:65:3E:C4:AB:6D:92:26:17:5B:56:3E:01:A1:F0:92:7D:5C:B1:68:E3:CE:E5:88:B1:17:30"
