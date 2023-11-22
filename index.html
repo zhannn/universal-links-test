@@ -14,12 +14,12 @@
     <script>
         function iOSButttonTapped() {
             var url = 'https://zhannn.github.io/back?result=succeeded';
-            window.open(url, '_blank');
+            window.open(url, '_self');
         }
 
         function androidButttonTapped() {
             var url = 'https://example.com';
-            window.open(url, '_blank');
+            window.open(url, '_self');
         }
 
         document.getElementById('ios_button').addEventListener('click', iOSButttonTapped);
